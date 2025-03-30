@@ -1,4 +1,4 @@
-![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter") Mountain Shooter ![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter")
+![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter") War in the Clouds ![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter")
 ===============
  
 
@@ -15,9 +15,27 @@ Score is saved in database (SQLite3))
 
 GAME MENU
 
-![Menu](https://github.com/user-attachments/assets/c9524f59-6ebd-443a-82c0-53b63eb2128f)
+![Menu](prints/Menu.png)
 
 GAME LEVEL 1
 
-![Level1](https://github.com/user-attachments/assets/8af63514-178d-44c9-9eb0-299e0aee0933)
+![Level1](prints/Level_1.png)
+
+GAME LEVEL 2
+
+![Level2](prints/Level_2.png)
+
+GAME LEVEL 1 COOPERATIVE
+
+![Level1](prints/Level_1_Cooperativo.png)
+
+GAME LEVEL 1 COMPETITIVE
+
+![Level1](prints/Level_1_Competitivo.png)
+
+GAME SCORE
+
+![Score](prints/Score.png)
+
+
 
